@@ -1,0 +1,6 @@
+C:\Users\percy\source\repos\Lab6\Entity\bin\Debug\Entity.dll
+C:\Users\percy\source\repos\Lab6\Entity\bin\Debug\Entity.pdb
+C:\Users\percy\source\repos\Lab6\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\percy\source\repos\Lab6\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\percy\source\repos\Lab6\Entity\obj\Debug\Entity.dll
+C:\Users\percy\source\repos\Lab6\Entity\obj\Debug\Entity.pdb
